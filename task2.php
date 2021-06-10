@@ -50,3 +50,4 @@ function traslateString2($string) {
     return $translatedStringTwo;
 }
 
+
