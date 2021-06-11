@@ -1,6 +1,6 @@
 <?php
 
-$fp = fopen('task5.csv', 'w');
+$fp = fopen('FilesFromTasks/task5.csv', 'w');
 
 $arrayOne = [
     "name" => "some name",
